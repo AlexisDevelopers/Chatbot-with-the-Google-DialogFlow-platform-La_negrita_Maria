@@ -1,5 +1,7 @@
 # Chatbot-with-the-Google-DialogFlow-platform-La_negrita_Maria
 
+https://bot.dialogflow.com/f655249c-aaf2-4fa7-9404-526b8f50ad03
+
 The purpose of this chatbot is to advise tourists who visit the Punta Cana area in the Dominican Republic, among its features are:
 
 Recommend Hotels, Recommend Restaurants, Recommend Bars/Discotheques, Recommend Drinks/Drinks from the Region, Recommend Monuments, Recommend Museums, Recommend Means of Transportation, Ask for a Taxi/Uber, Rent a Vehicle, Ask for a Drink/Drink, and Ask for Food.
